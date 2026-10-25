@@ -1,5 +1,9 @@
 # AutoPilot — semáforos com Q-Learning
 
+<p align="center">
+  <img src="IMG_PROJETO.png" width="700" alt="AutoPilot">
+</p>
+
 Simulador local de trânsito em Python. Um agente tabular de Q-Learning controla
 um cruzamento de quatro vias e é comparado, com as mesmas sementes e a mesma
 demanda, a um controlador de tempo fixo.
